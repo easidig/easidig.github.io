@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://easidig.github.io/sitemap
+Sitemap: https://easidig.github.io/app/sitemap
+Sitemap: https://easidig.github.io/assets/sitemap
+Sitemap: https://easidig.github.io/css/sitemap
+Sitemap: https://easidig.github.io/includes/sitemap
+Sitemap: https://easidig.github.io/item/sitemap
+Sitemap: https://easidig.github.io/src/sitemap
